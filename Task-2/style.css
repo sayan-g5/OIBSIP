@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    
+}
+.header h1 {
+    color: white;
+    text-align: center;
+}
+.image {
+    text-align: center;
+}
+img{
+    max-width: 100vw;
+    height: auto;
+}
+.biography{
+    margin: 0 auto;
+}
+
+.biography h3,p {
+    color: white;
+}
+.biography h3 {
+    text-align: center;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+.biography p {
+    padding: 10%;
+    padding-top: 1%;
+    font-size: 1.5rem;
+}
+.biography {
+    text-align: center;
+
+}
+footer {
+    color: white;
+    font-size: 0.9rem;
+    text-align: center;
+}
